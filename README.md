@@ -69,9 +69,22 @@ Dokumen lengkap tersedia di `BLUEPRINT_MASTER.md`.
 
 ---
 
-## 📂 Struktur Repo
+## 📂 Struktur Repo sementara
 
-Upam-Global/ │── README.md │── LICENSE │── ROADMAP.md │── BLUEPRINT_MASTER.md │── CONTRIBUTING.md │── .gitignore │── src/ │ └── .gitkeep │── .github/ ├── ISSUE_TEMPLATE/ │ └── bug_report.md └── PULL_REQUEST_TEMPLATE.md
+Upam-Global/
+├── README.md
+├── LICENSE
+├── ROADMAP.md
+├── BLUEPRINT_MASTER.md
+├── CONTRIBUTING.md
+├── .gitignore
+├── src/
+│   └── .gitkeep
+└── .github/
+    ├── ISSUE_TEMPLATE/
+    │   └── bug_report.md
+    └── PULL_REQUEST_TEMPLATE.md
+
 
 
 ---
@@ -111,4 +124,6 @@ Jika Anda merasa terbantu atau tertarik dengan Upam Global:
   <em>Upam Global adalah langkah menuju panel admin masa depan — ringan, fleksibel, dan sepenuhnya portabel.</em>
 </p>
 
-Copyright (c) 2025 Aliansiena Foundation
+
+
+<p align="center"> <em> Copyright (c) 2025 Aliansiena Foundation </p>
