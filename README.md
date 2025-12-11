@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="logo-upam-global.png" alt="Upam Global Logo" width="120"/>
+  <img src="img/logo-upam-global.png" alt="Upam Global Logo" width="120"/>
 </p>
 
 <h1 align="center">Upam Global</h1>
