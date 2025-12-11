@@ -71,7 +71,8 @@ Dokumen lengkap tersedia di `BLUEPRINT_MASTER.md`.
 
 ## 📂 Struktur Repo sementara
 
-Upam-Global/
+<details> <summary><strong>📁 Struktur Folder</strong></summary>
+  Upam-Global/
 ├── README.md
 ├── LICENSE
 ├── ROADMAP.md
@@ -84,6 +85,7 @@ Upam-Global/
     ├── ISSUE_TEMPLATE/
     │   └── bug_report.md
     └── PULL_REQUEST_TEMPLATE.md
+    </details>
 
 
 
