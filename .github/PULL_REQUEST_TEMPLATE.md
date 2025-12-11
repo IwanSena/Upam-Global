@@ -52,3 +52,15 @@ Pastikan semua sudah dicek:
 Tautkan issue yang relevan:
 
 Contoh:
+Fixes #12 
+Related to #7
+
+
+---
+
+## 💬 Catatan Tambahan
+Tambahkan informasi lain yang perlu diketahui reviewer.
+
+---
+
+Terima kasih telah berkontribusi pada **Upam Global — Universal Portable Admin Manager**.
