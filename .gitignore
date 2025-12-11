@@ -1,0 +1,48 @@
+# ============================================
+# Upam Global — .gitignore
+# Universal Portable Admin Manager
+# ============================================
+
+# Node modules (jika nanti pakai tooling)
+node_modules/
+
+# Build output (jika nanti ada proses build)
+dist/
+build/
+out/
+.cache/
+.tmp/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor folders
+.vscode/
+.idea/
+*.swp
+
+# Temporary files
+*.tmp
+*.temp
+
+# Environment files (jangan pernah commit token!)
+.env
+.env.local
+.env.*.local
+
+# Backup files
+*.bak
+*.old
+
+# System files
+desktop.ini
+
+# Git keepers
+!.gitkeep
